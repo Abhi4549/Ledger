@@ -1,8 +1,6 @@
-streamlit
-pandas>=2.0.0
-openpyxl==3.1.2
-pdfplumber==0.10.3
-tabula-py==2.8.2
-python-dateutil==2.8.2
-pycryptodome==3.19.0
-Pillow
+streamlit>=1.58.0
+pandas
+pdfplumber
+pikepdf
+openpyxl
+plotly
